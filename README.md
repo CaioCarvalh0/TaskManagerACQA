@@ -17,3 +17,9 @@ A aplicação permite que o usuário adicione tarefas, marque como concluídas e
 1. Instale as dependências:
    ```bash
    yarn
+2. Inicie o projeto:
+    ```bash
+   yarn dev
+3. Acesse em: 
+   ```bash
+   http://localhost:5173
