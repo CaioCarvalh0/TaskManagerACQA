@@ -10,7 +10,7 @@ A aplicação permite que o usuário adicione tarefas, marque como concluídas e
 - Marcar tarefas como concluídas
 - Filtrar tarefas por status: Todas | Concluídas | Pendentes
 - Estado global com `useContext` e `useReducer`
-- Componentização: App, ListaDeTarefas e Tarefa
+- Componentização: App, TaskList e Task
 
 ## ▶️ Como executar
 
